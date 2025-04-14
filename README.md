@@ -1,27 +1,52 @@
-# 🔐 Secure Password Generator
+# 🔐 Gerador de Senhas Seguras
 
-A simple and customizable password generator written in Python.  
-Generates strong, secure passwords with options for uppercase letters, lowercase letters, numbers, and safe symbols.
-
----
-
-## 🚀 Features
-
-- Custom password length
-- Options to include:
-  - Uppercase letters (A–Z)
-  - Lowercase letters (a–z)
-  - Numbers (0–9)
-  - Common safe symbols (`!@#$%&*-_+=`)
-- Easy to use from the terminal
-- Uses only Python standard libraries
+Um gerador de senhas simples e personalizável feito em Python.  
+Gera senhas fortes com opções de letras maiúsculas, minúsculas, números e símbolos seguros.
 
 ---
 
-## 🖥️ How to Use
+## 🚀 Funcionalidades
 
-### 1. Clone the repository
+- Definição personalizada do tamanho da senha
+- Opções para incluir:
+  - Letras maiúsculas (A–Z)
+  - Letras minúsculas (a–z)
+  - Números (0–9)
+  - Símbolos seguros e compatíveis (`!@#$%&*-_+=`)
+- Fácil de usar via terminal
+- Utiliza apenas bibliotecas nativas do Python
+
+---
+
+## 🖥️ Como usar
+
+### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/your-username/secure-password-generator.git
-cd secure-password-generator
+git clone # 🔐 Gerador de Senhas Seguras
+
+Um gerador de senhas simples e personalizável feito em Python.  
+Gera senhas fortes com opções de letras maiúsculas, minúsculas, números e símbolos seguros.
+
+---
+
+## 🚀 Funcionalidades
+
+- Definição personalizada do tamanho da senha
+- Opções para incluir:
+  - Letras maiúsculas (A–Z)
+  - Letras minúsculas (a–z)
+  - Números (0–9)
+  - Símbolos seguros e compatíveis (`!@#$%&*-_+=`)
+- Fácil de usar via terminal
+- Utiliza apenas bibliotecas nativas do Python
+
+---
+
+## 🖥️ Como usar
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/chkawan/password-generator.git
+cd gerador-senhas-seguras
